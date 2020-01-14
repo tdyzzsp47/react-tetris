@@ -1,0 +1,69 @@
+.field {
+    padding: 50px;
+}
+
+td {
+    width: 30px;
+    height: 30px;
+    background-color: white;
+}
+
+.block_type_-8 {
+    background-color: chocolate;
+}
+
+.block_type_1 {
+    background-color: cyan;
+}
+
+.block_type_-1 {
+    background-color: cyan;
+}
+
+.block_type_2 {
+    background-color: yellow;
+}
+
+.block_type_-2 {
+    background-color: yellow;
+}
+
+.block_type_3 {
+    background-color: green;
+}
+
+.block_type_-3 {
+    background-color: green;
+}
+
+.block_type_4 {
+    background-color: red;
+}
+
+.block_type_-4 {
+    background-color: red;
+}
+
+.block_type_5 {
+    background-color: blue;
+}
+
+.block_type_-5 {
+    background-color: blue;
+}
+
+.block_type_6 {
+    background-color: orange;
+}
+
+.block_type_-6 {
+    background-color: orange;
+}
+
+.block_type_7 {
+    background-color: purple;
+}
+
+.block_type_-7 {
+    background-color: purple;
+}
