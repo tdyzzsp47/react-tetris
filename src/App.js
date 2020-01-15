@@ -33,7 +33,7 @@ class App extends Component {
       } else if (e.keyCode === 38) {
         this.rotate();
       } else {
-        console.log(e.keyCode)
+        // console.log(e.keyCode)
       }
     }
   }
